@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProninHW2.2.2</string>
+    <string name="Save">saveButtonText</string>
+    <string name="TextHint">hintText</string>
+</resources>
